@@ -65,7 +65,7 @@ Add a new network by selecting `Custom RPC`
 
 You should use the following address for your RPC
 
-```http://127.0.0.1```
+```http://127.0.0.1:8545```
 
 This should connect.
 
