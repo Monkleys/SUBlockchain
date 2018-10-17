@@ -1,0 +1,210 @@
+admin.peers
+net.peerCount
+admin.peers
+net.peerCount
+miner.start(1)
+miner.stop()
+eth.coinbase
+web3.fromWei(eth.getBalance(eth.coinbase),"ether")
+web3.fromWei(eth.getBalance("0x930ed43fdb7e602a384cccf33c7542f682a4c4c0"),"ether")
+web3.fromWei(eth.getBalance("0x000d6bf31a03be31588b9193a3189a050c79f65b"),"ether")
+miner.start()
+miner.stop()
+eth.coinbase
+web3.fromWei(eth.getBalance("0x930ed43fdb7e602a384cccf33c7542f682a4c4c0"),"ether")
+miner
+web3.fromWei(eth.getBalance("0x930ed43fdb7e602a384cccf33c7542f682a4c4c0"),"ether")
+web3.fromWei(eth.getBalance("0xe53766771c79d51011efe8edf6a36484a24b0ac3"),"ether")
+web3.fromWei(eth.getBalance("0xe53766771c79d51011efe8edf6a36484a24b0ac3"),"ether")\
+web3.fromWei(eth.getBalance("0xe53766771c79d51011efe8edf6a36484a24b0ac3"),"ether")
+web3.fromWei(eth.getBalance("aecd234d42517f6ff13232849b797155c0fd4fe3"),"ether")
+web3.fromWei(eth.getBalance("aecd234d42517f6ff13232849b797155c0fd4fe2"),"ether")
+web3.fromWei(eth.getBalance("aecd234d42517f6ff13232849b797155c0fd4fe3"),"ether")
+net.peerCount
+eth.peerCount
+eth.pendingTransactions
+eth.hashrate
+miner.start()
+eth.hashrate
+eth.hashrateminet
+miner.stop()
+eth.coinbase
+admin.a
+eth.accounts
+eth.coinbase
+eth.sendTransaction(eth.coinbase, "0xe53766771c79d51011efe8edf6a36484a24b0ac3", 100)
+eth.sendTransaction(eth.coinbase, 0xe53766771c79d51011efe8edf6a36484a24b0ac3, 100)
+eth.coinbase
+eth.sendTransaction(eth.coinbase, 0xe53766771c79d51011efe8edf6a36484a24b0ac3, 100)eth.sendTransaction({from:eth.coinbase, to:eth.accounts[1], value: web3.toWei(0.05, "ether")})
+eth.sendTransaction(eth.coinbase, "0xe53766771c79d51011efe8edf6a36484a24b0ac3", 100)eth.sendTransaction({from:eth.coinbase, to:eth.accounts[1], value: web3.toWei(0.05, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.sendTransaction({from:eth.coinbase, to:"0xe53766771c79d51011efe8edf6a36484a24b0ac3", value: web3.toWei(100, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.sendTransaction({from:eth.coinbase, to:"0xe53766771c79d51011efe8edf6a36484a24b0ac3", value: web3.toWei(100, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.sendTransaction({from:eth.coinbase, to:"0xe53766771c79d51011efe8edf6a36484a24b0ac3", value: web3.toWei(100, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.sendTransaction({from:eth.coinbase, to:"0xe53766771c79d51011efe8edf6a36484a24b0ac3", value: web3.toWei(100, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.coinbase
+web3.fromWei(eth.getBalance(eth.coinbase));
+net.peerCount
+config
+net.peerCount
+web3.fromWei(eth.getBalance(eth.coinbase));
+net.peerCount
+web3.fromWei(eth.getBalance(eth.coinbase));
+miner.start()
+miner.stop()
+miner.start()
+miner.stop()
+net.peerCount
+miner.start()
+miner.stop()
+miner.start(2)
+web3.eth.coinbase
+web3.fromWei(eth.getBalance("b236b014a4da300abf159a7c0dd9a5f66c825a64"));
+web3.fromWei(eth.getBalance("0xb236b014a4da300abf159a7c0dd9a5f66c825a64"));
+web3.fromWei(eth.getBalance("0xb236b014a4da300abf159a7c0dd9a5f66c825a64"),'ether');
+web3.fromWei(eth.getBalance("3aa18a82ac7483390559640d27b6d8bf1a11a17c"), "ether")
+web3.fromWei(eth.getBalance("0x3aa18a82ac7483390559640d27b6d8bf1a11a17c"), "ether")
+web3.fromWei(eth.getBalance("ddee4922f76bc31b0d8e5aafa2743492d28e8a7e"), "ether")
+contract SimplePayable {
+  function storeETH() payable public {}
+}
+web3.fromWei(eth.getBalance("b236b014a4da300abf159a7c0dd9a5f66c825a64"));
+miner.start(1)
+pragma solidity ^0.4.0;
+miner.stop()
+web3.fromWei(eth.getBalance(eth.coinbase));
+4
+web3.fromWei(eth.getBalance(eth.coinbase));
+miner.start(2)
+web3.fromWei(eth.getBalance(eth.coinbase));
+var cont=eth.contract(ABI)t.at(Address);
+var Address = "0x47cb892fa6c9729718de066da4956387d03e0990"
+Address
+var Address = "0x47cb892fa6c9729718de066da4956387d03e0990"
+var cont=eth.contract(ABI)t.at(Address);
+var cont= eth.contract().at(Address)
+var cont= eth.contract().at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract().at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract(ABI).at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract(ABI)
+var cont = eth.contract()
+cont
+var cont = eth.contract(abi)
+var cont = eth.contract(abi).at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract(abi).
+var cont = eth.contract(abi).at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract().at(0x47cb892fa6c9729718de066da4956387d03e0990)
+var cont = eth.contract(abi).at(0x47cb892fa6c9729718de066da4956387d03e0990)var MyContract = web3.eth.contract(abi);
+var MyContract = web3.eth.contract(abi);
+var contractClass = web3.eth.contract(contractClassAbi);
+var contractClass = web3.eth.contract(Object)
+contractClass
+contractClass.at('0x47cb892fa6c9729718de066da4956387d03e0990')
+var contractClass = web3.eth.contract(Object).at('0x47cb892fa6c9729718de066da4956387d03e0990')
+var contractClass = web3.eth.contract('0x99ff0d9125e1fc9531a11262e15aeb2c60509a078c4cc4c64cefdfb06ff68647')
+contractClass
+var a = contractClass.at('0x47cb892fa6c9729718de066da4956387d03e0990')
+a
+contractClass
+var contractAbi = eth.contract(AbiOfContract);
+var ABI = '0x99ff0d9125e1fc9531a11262e15aeb2c60509a078c4cc4c64cefdfb06ff68647'
+var contractAbi = eth.contract(ABI);
+var myContract = contractAbi.at(Address);
+var contractAbi = eth.contract(ABI);
+var myContract = contractAbi.at(Address);
+Address
+var myContract = contractAbi.at(Address);
+var contractAbi = eth.contract(AbiOfContract);
+var contractAbi = eth.contract(ABI);
+var myContract = contractAbi.at(Address);
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(0.05, "ether")});
+Address
+net.peerCount
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:'0x47cb892fa6c9729718de066da4956387d03e0990', value:web3.toWei(25, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:'0x47cb892fa6c9729718de066da4956387d03e0990', value:web3.toWei(25, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+send
+web3.fromWei(eth.getBalance(eth.coinbase));
+miner.start(2)
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:'0x47cb892fa6c9729718de066da4956387d03e0990', value:web3.toWei(0.05, "ether")});
+Adress
+Address
+var Address = '0x47cb892fa6c9729718de066da4956387d03e0990'
+```
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(0.05, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(0.05, "ether")});var send = web3.eth.sendTransaction({from:eth.coinbase,to:'0x47cb892fa6c9729718de066da4956387d03e0990', value:web3.toWei(25, "ether")});
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(25, "ether")});
+var Address = 0x47cb892fa6c9729718de066da4956387d03e0990
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(25, "ether")});
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:'Address', value:web3.toWei(25, "ether")});
+var Address = '0x47cb892fa6c9729718de066da4956387d03e0990'
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:'Address', value:web3.toWei(25, "ether")});
+Address
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(25, "ether")});
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")})
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+var Address = '0x2cba5996645acd290228cd9a09328db0a32bdd8f'
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(10, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(100, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(1000, "ether")});
+net.peerCount
+web3.fromWei(eth.getBalance(eth.coinbase));
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(4000, "ether")});
+var Address = '0x2cba5996645acd290228cd9a09328db0a32bdd8f'
+var send = web3.eth.sendTransaction({from:eth.coinbase,to:Address, value:web3.toWei(4000, "ether")});
+web3.fromWei(eth.getBalance(eth.coinbase));
+personal.
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.coinbase
+web3.fromWei(eth.getBalance(eth.coinbase));
+eth.coinbase
+web3.fromWei(eth.getBalance("0x6da16b2b777afa153d9f0f67b06c3f72108985d9"));
+miner.start(2)
+var github.com/oraclize/ethereum-api/oraclizeapi.sol:bufferContract = web3.eth.contract([]);
+var github.com/oraclize/ethereum-api/oraclizeapi.sol:buffer = github.com/oraclize/ethereum-api/oraclizeapi.sol:bufferContract.new(
+   {
+     from: web3.eth.accounts[0], 
+     data: '0x60606040523415600e57600080fd5b603580601b6000396000f3006060604052600080fd00a165627a7a723058200b44046a9dae021e429000f975876a999ae8faac3dc151a488a50bcb68e001580029', 
+     gas: '4700000'
+   }, function (e, contract){
+    console.log(e, contract);
+    if (typeof contract.address !== 'undefined') {
+         console.log('Contract mined! address: ' + contract.address + ' transactionHash: ' + contract.transactionHash);
+    }
+ })
+miner.stop()
+web3.fromWei(eth.getBalance(eth.coinbase));
+miner.start(1)
+net.peerCount
+web3.fromWei(eth.getBalance("0x6da16b2b777afa153d9f0f67b06c3f72108985d9"));
+miner.stop()
+miner.start()
+miner.stop()
+web3.fromWei(eth.getBalance(eth.coinbase));
+miner.start()
+miner.stop()
+web3.fromWei(eth.getBalance(eth.coinbase));
+http://web3.net.peercount/
+web3.net.peercount
+net.peercount
+net.peerCount
+miner.start(2)
+net.peerCount

@@ -43,9 +43,7 @@ Running `net.peerCount` in the geth console should yield a number greater than 1
 
 Once running type the following into the console:
 
-```personal.newAccount()```
-
-You will be asked for a Passphrase, leaving it blank and hitting enter is fine. Repeat.
+```personal.newAccount("")```
 
 
 ### To start mining
