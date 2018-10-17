@@ -1,0 +1,63 @@
+{
+
+"config": {
+
+"chainId": 4321,
+
+"homesteadBlock": 0,
+
+"eip155Block": 0,
+
+"eip158Block": 0
+
+},
+
+"alloc": {
+"3aa18a82ac7483390559640d27b6d8bf1a11a17c": {"balance": "10000"},
+"78c4f9a103209ef99054688d9ae2936ee442eb86": {"balance": "10000"},
+"224ee626492ae7dd67606d7262b5c0beca7187b9": {"balance": "10000"},
+"b236b014a4da300abf159a7c0dd9a5f66c825a64": {"balance": "10000"},
+"afbc1fd376790985b17bb35cbbd57cec396c32ae": {"balance": "10000"},
+"4adc97466d32ef66ae2da5959ff242914f6fcee3": {"balance": "10000"},
+"6ce4fde69258d3dfdae0d085048c3fc305e6edc2": {"balance": "10000"},
+"b87e20567752c68df6084fcb9af4f5c76da7bb48": {"balance": "10000"},
+"e2f9a354bd11f297e22099553b36012102788b06": {"balance": "10000"},
+"c078cd89f33dd1dffd9e8560a74391e737264078": {"balance": "10000"},
+"90dcff0619c5c868ea9c40228e5dd988e5fe7745": {"balance": "10000"},
+"54707236bdf00189830729faf6661bf7de1e63e5": {"balance": "10000"},
+"61f5bab00506fd600628265d3ab539f6ec049e9f": {"balance": "10000"},
+"24d676cf6a8269dcacb4197294383c15ecf3a658": {"balance": "10000"},
+"3d456665906474d6c74a6ed14dfefda9e8a72a36": {"balance": "10000"},
+"68c2bc4ef6b5d8c814289a70ccc5f0a3e068fe54": {"balance": "10000"},
+"eedc190d41d1d037635051e51fe1cfe88b75d5de": {"balance": "10000"},
+"05a19b153b106adff61a4ed4b3c42b98cd575405": {"balance": "10000"},
+"8a5ab78830317bf43cf6afa4335318b54b82cf51": {"balance": "10000"},
+"7c92a7ebe95198101978ca833053cd7c551d56a0": {"balance": "10000"},
+"c5fea9b2c999827a47bb324e3b6b2964e6126074": {"balance": "10000"},
+"be3c76ac59ed1c07c8f13be9dc7c4ba89b6670ee": {"balance": "10000"},
+"ddee4922f76bc31b0d8e5aafa2743492d28e8a7e": {"balance": "10000"},
+"55611b9abd71619af7e07bb40870b5af733613a8": {"balance": "10000"},
+"c7cec4a6f37b28dcb0a331a9d9adc5649e6ae75a": {"balance": "10000"},
+"60256379a1c2b8e4d564914409880357e150f8c4": {"balance": "10000"},
+"4f4a9ef8fc2d04f457c277432a90171e18577d1b": {"balance": "10000"},
+"577ba8eeedfd7a47c6001f00846f7124548f8e41": {"balance": "10000"},
+"23fc2350b17af7e93965b051ffde16e47be0e61c": {"balance": "10000"},
+"6b79ef70c4600c809056ade77f6517a99cf6817b": {"balance": "10000"},
+"d84623d83eb622b1278571926a8eb673ddf2a200": {"balance": "10000"},
+"a3052d9d140279d520ebdec9cb08e4912d79a063": {"balance": "10000"},
+"99bb4179b76f3d9cdfcd89f3ecc0f261c804de32": {"balance": "10000"},
+"4a53a0160f0b1d7f55c79ce941372bc2142ed79d": {"balance": "10000"},
+"7a58c7124e4f0b018405368a56f3c0e0e0a89205": {"balance": "10000"},
+"c1261b235435ed90fea74c667c133bf9b0498cb2": {"balance": "10000"},
+"236d20a42bc77a57ed3d5c4ec03d5e84007071b9": {"balance": "10000"},
+"aecd234d42517f6ff13232849b797155c0fd4fe3": {"balance": "10000"},
+"caceb0081c861fe12827217da237a6a541eb4262": {"balance": "10000"},
+"3176662899b920f65491e4432463197a4564e064": {"balance": "10000"}
+
+},
+
+"difficulty" : "0x0",
+
+"gasLimit"   : "0x8880000"
+
+}
